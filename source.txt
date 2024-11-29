@@ -2,3 +2,5 @@ A=int(input("Enter Number:"))
 print(A)
 B=int(input("Enter Number:"))
 print(B)
+C=A+B
+print("The Result is:",C)
